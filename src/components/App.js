@@ -98,8 +98,8 @@ const App = () => {
 	}
 
   return (
-		<div className='App w-full flex flex-col justify-center items-center p-4 border-2 border-red-500'>
-			{	mode === 'Add' || mode === 'Update' ? <AddUpdate mode={mode} setMode={setMode} addAlbum={addAlbum} updateAlbum={updateAlbum} title={title} setTitle={setTitle} userId={userId} setUserId={setUserId} albumid={albumId} setAlbumId={setAlbumId} /> : '' }
+		<div className='App w-full flex flex-col justify-center items-center border-2 border-red-500'>
+			{	mode === 'Add' || mode === 'Update' ? <AddUpdate mode={mode} setMode={setMode} addAlbum={addAlbum} updateAlbum={updateAlbum} title={title} setTitle={setTitle} userId={userId} setUserId={setUserId} albumid={albumId} /> : '' }
 			<Albums albums={albums} handleAdd={handleAdd} handleDelete={handleDelete} handleUpdate={handleUpdate} />
 		</div>
   );
