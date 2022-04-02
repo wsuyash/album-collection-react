@@ -2,6 +2,8 @@
 
 An album collection app with add, update and delete album functionality.
 
+#### This project is hosted at: https://wsuyash.github.io/album-collection-react/
+
 ## Tech Stack
 
 1. React
