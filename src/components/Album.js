@@ -1,4 +1,5 @@
 const Album = (props) => {
+	// Get Props
 	const { userId, id, title, handleDelete, handleUpdate } = props;
 
   return (

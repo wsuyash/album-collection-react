@@ -1,4 +1,5 @@
 const AddUpdate = (props) => {
+	// Get Props
 	const { mode, setMode, addAlbum, updateAlbum, title, setTitle, userId, setUserId, albumId } = props;
 
 	return (

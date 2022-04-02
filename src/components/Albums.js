@@ -1,6 +1,7 @@
 import Album from './Album';
 
 const Albums = (props) => {
+	// Get Props
 	const { albums, handleAdd, handleDelete, handleUpdate } = props;
 
   return (
