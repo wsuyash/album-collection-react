@@ -4,8 +4,8 @@ An album collection app with add, update and delete album functionality.
 
 ## Tech Stack
 
-React
-Tailwind CSS
+1. React
+2. Tailwind CSS
 
 ## Directory Structure
 
