@@ -2,9 +2,45 @@
 
 An album collection app with add, update and delete album functionality.
 
+# Tech Stack
+
+React
+
+# Directory Structure
+
+```
+.
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── public
+│   ├── images
+│   │   └── photo-gallery.png
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+├── README.md
+├── src
+│   ├── components
+│   │   ├── AddUpdate.js
+│   │   ├── Album.js
+│   │   ├── Albums.js
+│   │   └── App.js
+│   ├── index.js
+│   └── styles
+│       └── index.css
+└── tailwind.config.js
+
+5 directories, 15 files
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs the dependencies.
 
 ### `npm start`
 
