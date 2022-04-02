@@ -2,12 +2,12 @@
 
 An album collection app with add, update and delete album functionality.
 
-# Tech Stack
+## Tech Stack
 
 React
 Tailwind CSS
 
-# Directory Structure
+## Directory Structure
 
 ```
 .
