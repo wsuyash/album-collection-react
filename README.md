@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Album Collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An album collection app with add, update and delete album functionality.
 
 ## Available Scripts
 
